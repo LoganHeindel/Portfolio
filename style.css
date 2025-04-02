@@ -39,3 +39,29 @@ nav ul li a:hover {
     text-decoration: underline;
     color: #E3F2FD;
 }
+footer {
+    margin-top: auto;
+    background: #0277BD;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+}
+.buttons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 10px;
+}
+
+.btn {
+    background: #0288D1;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.btn:hover {
+    background: #01579B;
+}

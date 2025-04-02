@@ -84,11 +84,11 @@ nav ul li a:hover {
 }
 
 footer {
-    margin-top: auto;
     background: #03A9F4;
     color: white;
     text-align: center;
     padding: 15px 0;
+    width: 100%;
 }
 .date {
     color: #A0A0A0;

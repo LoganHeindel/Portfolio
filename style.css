@@ -168,6 +168,6 @@ textarea {
     resize: none;
 }
 nav ul li a.active {
-    background: #002171;
+    color: #002171;
     border-radius: 25px;
 }

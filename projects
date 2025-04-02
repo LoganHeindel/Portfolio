@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects - Logan Heindel</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <h1>Logan Heindel</h1>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="projects.html" class="active">Projects</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="project-details">
+        <h2>Project Name</h2>
+        <p class="date">MM/DD/YYYY</p>
+
+        <div class="project-images">
+            <div class="project-box">Insert Designs</div>
+            <div class="project-box">Insert Designs</div>
+        </div>
+
+        <h3>Project Description</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+           Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+           sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.
+        </p>
+
+        <div class="button-container">
+            <a href="gallery.html" class="btn">Project Gallery</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Logan Heindel. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
